@@ -27175,7 +27175,7 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  * freely use on your site.
  */ var _photo1Jpg = require("../images/photo1.jpg");
 var _photo1JpgDefault = parcelHelpers.interopDefault(_photo1Jpg);
-const imageAltText = "Waves";
+const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */ const description = "I'm a Graphic designer, persuing engineering in Mathematics and Computing from Manipal Institute of Technology, Manipal.";
